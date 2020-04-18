@@ -17,4 +17,13 @@ This is first freeRTOS project
 
 ### 5. freeRTOS_LD2_B1_Notify
 
+### 6. freeRTOS_Queues
+
+### 7. freeRTOS_Bin_Semaphore
+
+### 8. freeRTOS_Semaphore_Mutual-Ex
+
+### 9. freeRTOS_Mutex_Mutual-Ex
+
+
 
